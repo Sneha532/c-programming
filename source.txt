@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+    FILE *ifp,*ofp;
+    char src_file[100],dst_file[100]
+    strcpy(scc)
+}
